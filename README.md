@@ -1,4 +1,4 @@
-# inadimplencia
+# Inadimplência
 Projeto de análise de inadimplência feito em Python
 
 # Motivação
